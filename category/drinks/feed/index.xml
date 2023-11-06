@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Drinks &#8211; Zakra Restaurant</title>
-	<atom:link href="http://10.0.0.190/category/drinks/feed/?simply_static_page=617" rel="self" type="application/rss+xml" />
+	<title>Drinks &#8211; UrbanSpice Restaurant</title>
+	<atom:link href="http://10.0.0.190/category/drinks/feed/?simply_static_page=1240" rel="self" type="application/rss+xml" />
 	<link>https://urbanspice.github.io/ussk/</link>
 	<description></description>
 	<lastBuildDate>Wed, 29 May 2019 08:07:50 +0000</lastBuildDate>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>https://urbanspice.github.io/ussk/wp-content/uploads/2020/07/zakra.png</url>
-	<title>Drinks &#8211; Zakra Restaurant</title>
+	<title>Drinks &#8211; UrbanSpice Restaurant</title>
 	<link>https://urbanspice.github.io/ussk/</link>
 	<width>32</width>
 	<height>32</height>
