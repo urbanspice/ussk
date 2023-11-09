@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments for UrbanSpice Restaurant	</title>
-	<atom:link href="http://10.0.0.190/comments/feed/?simply_static_page=1680" rel="self" type="application/rss+xml" />
+	<atom:link href="http://10.0.0.190/comments/feed/?simply_static_page=2303" rel="self" type="application/rss+xml" />
 	<link>https://urbanspice.github.io/ussk/</link>
 	<description></description>
-	<lastBuildDate>Mon, 06 Nov 2023 16:49:24 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 09 Nov 2023 17:41:08 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3.2</generator>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
 </channel>
 </rss>

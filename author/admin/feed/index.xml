@@ -9,7 +9,7 @@
 
 <channel>
 	<title>admin &#8211; UrbanSpice Restaurant</title>
-	<atom:link href="http://10.0.0.190/author/admin/feed/?simply_static_page=1849" rel="self" type="application/rss+xml" />
+	<atom:link href="http://10.0.0.190/author/admin/feed/?simply_static_page=2464" rel="self" type="application/rss+xml" />
 	<link>https://urbanspice.github.io/ussk/</link>
 	<description></description>
 	<lastBuildDate>Wed, 29 May 2019 08:09:48 +0000</lastBuildDate>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3.2</generator>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
 
 <image>
 	<url>https://urbanspice.github.io/ussk/wp-content/uploads/2020/07/zakra.png</url>
